@@ -1,11 +1,15 @@
-EMPTY
-<!-- Remove all lines above this line before making changes to the file -->
 ### Subject Matter Experts
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
 
-### Developers
-| SNo. | Name | Email | Institute | ID |
-| :---: | :---: | :---: | :---: | :---: |
-| 1 | name | email | institute | id |
+<b>Name of Developer | <b> **Prof. Chittaranjan Mandal**
+:--|:--|
+<b> Institute | <b>  **Indian Institute of Technology Kharagpur**
+<b> Email id|     <b>  **chitta@iitkgp.ac.in**
+<b> Department |  **Department of Computer Science and Engineering**
+<b>Webpage| <b> http://www.iitkgp.ac.in/department/CS/faculty/cs-chitta
+
+### Developer / Integration Engineer
+
+SrNo | Name  | Department| Institute
+:--|:--|:--|:--|
+1 | **Parimal Santra** | Department of Computer Science and Engineering | IIT Kharagpur | 
+2 | **Aditya Kameswara Rao Nandula** | Department of Mechanical Engineering | IIT Kharagpur | 
