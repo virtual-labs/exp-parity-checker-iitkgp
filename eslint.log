@@ -1,0 +1,691 @@
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/js/adimthte.js
+   9:1   warning  '$' is not defined         no-undef
+  10:17  warning  'showdown' is not defined  no-undef
+  18:3   warning  '$' is not defined         no-undef
+  20:1   warning  Mixed spaces and tabs      no-mixed-spaces-and-tabs
+  20:4   warning  '$' is not defined         no-undef
+  23:5   warning  '$' is not defined         no-undef
+  26:3   warning  '$' is not defined         no-undef
+  28:1   warning  Mixed spaces and tabs      no-mixed-spaces-and-tabs
+  28:4   warning  '$' is not defined         no-undef
+  31:5   warning  '$' is not defined         no-undef
+  34:3   warning  '$' is not defined         no-undef
+  36:1   warning  Mixed spaces and tabs      no-mixed-spaces-and-tabs
+  37:1   warning  Mixed spaces and tabs      no-mixed-spaces-and-tabs
+  37:4   warning  '$' is not defined         no-undef
+  38:5   warning  '$' is not defined         no-undef
+  39:5   warning  '$' is not defined         no-undef
+  42:7   warning  '$' is not defined         no-undef
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/js/adipoq.js
+   9:1   warning  '$' is not defined               no-undef
+  10:5   warning  '$' is not defined               no-undef
+  12:11  warning  '$' is not defined               no-undef
+  15:9   warning  '$' is not defined               no-undef
+  15:25  warning  'fn' is not defined              no-undef
+  18:7   warning  '$' is not defined               no-undef
+  20:11  warning  '$' is not defined               no-undef
+  23:9   warning  '$' is not defined               no-undef
+  23:24  warning  'fn' is not defined              no-undef
+  26:5   warning  '$' is not defined               no-undef
+  30:9   warning  '$' is not defined               no-undef
+  41:9   warning  '$' is not defined               no-undef
+  45:10  warning  'cas' is defined but never used  no-unused-vars
+  46:5   warning  '$' is not defined               no-undef
+  47:9   warning  '$' is not defined               no-undef
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/js/adiprq.js
+   9:1   warning  '$' is not defined               no-undef
+  10:5   warning  '$' is not defined               no-undef
+  12:11  warning  '$' is not defined               no-undef
+  15:9   warning  '$' is not defined               no-undef
+  15:25  warning  'fn' is not defined              no-undef
+  18:7   warning  '$' is not defined               no-undef
+  20:11  warning  '$' is not defined               no-undef
+  23:9   warning  '$' is not defined               no-undef
+  23:24  warning  'fn' is not defined              no-undef
+  26:5   warning  '$' is not defined               no-undef
+  30:9   warning  '$' is not defined               no-undef
+  41:9   warning  '$' is not defined               no-undef
+  45:10  warning  'cas' is defined but never used  no-unused-vars
+  46:5   warning  '$' is not defined               no-undef
+  47:9   warning  '$' is not defined               no-undef
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/license/view.js
+  1:246  warning  Unnecessary semicolon  no-extra-semi
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/simulation/js/FileSaver.js
+   15:42  warning  'global' is not defined  no-undef
+   15:60  warning  'global' is not defined  no-undef
+   16:5   warning  'global' is not defined  no-undef
+   53:15  warning  Empty block statement    no-empty
+  171:3   warning  'module' is not defined  no-undef
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/simulation/js/SimpleLogic.js
+  136:5   warning  Unnecessary semicolon               no-extra-semi
+  303:21  warning  'coords' is already defined         no-redeclare
+  320:9   warning  'image' is not defined              no-undef
+  321:9   warning  'image' is not defined              no-undef
+  322:9   warning  'image' is not defined              no-undef
+  323:9   warning  'image' is not defined              no-undef
+  334:9   warning  'image' is not defined              no-undef
+  335:9   warning  'image' is not defined              no-undef
+  336:9   warning  'image' is not defined              no-undef
+  337:9   warning  'image' is not defined              no-undef
+  339:23  warning  'image' is not defined              no-undef
+  356:13  warning  'height' is already defined         no-redeclare
+  356:23  warning  'image' is not defined              no-undef
+  357:18  warning  'i' is already defined              no-redeclare
+  358:17  warning  'input' is already defined          no-redeclare
+  363:32  warning  'image' is not defined              no-undef
+  410:5   warning  'btnElm' is not defined             no-undef
+  412:5   warning  'btnElm' is not defined             no-undef
+  492:59  warning  'border' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/simulation/js/canvas.js
+    15:1    warning  'available_id' is not defined                         no-undef
+    16:1    warning  'init_x' is not defined                               no-undef
+    17:1    warning  'init_y' is not defined                               no-undef
+    18:1    warning  'bit_r' is not defined                                no-undef
+    19:1    warning  'dot_width' is not defined                            no-undef
+    20:1    warning  'dot_height' is not defined                           no-undef
+    21:1    warning  'dot_gap' is not defined                              no-undef
+    22:1    warning  'dot_color' is not defined                            no-undef
+    23:1    warning  'pin_width' is not defined                            no-undef
+    24:1    warning  'pin_height' is not defined                           no-undef
+    25:1    warning  'pin_color' is not defined                            no-undef
+    26:1    warning  'conn_width' is not defined                           no-undef
+    27:1    warning  'conn_color' is not defined                           no-undef
+    28:1    warning  'chip_padding' is not defined                         no-undef
+    29:1    warning  'chip_color' is not defined                           no-undef
+    30:1    warning  'labelColor' is not defined                           no-undef
+    31:1    warning  'start_x' is not defined                              no-undef
+    32:1    warning  'start_y' is not defined                              no-undef
+    33:1    warning  'is_dragging' is not defined                          no-undef
+    34:1    warning  'is_connecting' is not defined                        no-undef
+    35:1    warning  'dragging_chip' is not defined                        no-undef
+    36:1    warning  'dragging_component' is not defined                   no-undef
+    37:1    warning  'dragging_bit' is not defined                         no-undef
+    38:1    warning  'dragging_memory' is not defined                      no-undef
+    39:1    warning  'dragging_clock' is not defined                       no-undef
+    40:1    warning  'clock_running' is not defined                        no-undef
+    41:1    warning  'stop_simulation_flag' is not defined                 no-undef
+    42:1    warning  'drag_chip_index' is not defined                      no-undef
+    43:1    warning  'drag_comp_index' is not defined                      no-undef
+    44:1    warning  'sel_bit_index' is not defined                        no-undef
+    45:1    warning  'sel_memory_index' is not defined                     no-undef
+    46:1    warning  'sel_conn_index' is not defined                       no-undef
+    47:1    warning  'nr_dot' is not defined                               no-undef
+    48:1    warning  'start_dot' is not defined                            no-undef
+    49:1    warning  'end_dot' is not defined                              no-undef
+    50:1    warning  'star_spikes' is not defined                          no-undef
+    51:1    warning  'star_outerRadius' is not defined                     no-undef
+    52:1    warning  'star_innerRadius' is not defined                     no-undef
+    53:1    warning  'l_jumper' is not defined                             no-undef
+    54:1    warning  'r_jumper' is not defined                             no-undef
+    55:1    warning  'high_clock' is not defined                           no-undef
+    56:1    warning  'low_clock' is not defined                            no-undef
+    63:16   warning  'block_sleep' is defined but never used               no-unused-vars
+    71:26   warning  'star_spikes' is not defined                          no-undef
+    73:25   warning  'star_outerRadius' is not defined                     no-undef
+    74:25   warning  'star_spikes' is not defined                          no-undef
+    75:34   warning  'star_outerRadius' is not defined                     no-undef
+    76:34   warning  'star_outerRadius' is not defined                     no-undef
+    79:34   warning  'star_innerRadius' is not defined                     no-undef
+    80:34   warning  'star_innerRadius' is not defined                     no-undef
+    84:25   warning  'star_outerRadius' is not defined                     no-undef
+    93:5    warning  'nearest_dot_old' is assigned a value but never used  no-unused-vars
+    94:32   warning  'dot_gap' is not defined                              no-undef
+    94:43   warning  'dot_gap' is not defined                              no-undef
+    95:21   warning  'dot_gap' is not defined                              no-undef
+    96:16   warning  'dot_gap' is not defined                              no-undef
+    99:27   warning  'dot_gap' is not defined                              no-undef
+   102:32   warning  'dot_gap' is not defined                              no-undef
+   102:43   warning  'dot_gap' is not defined                              no-undef
+   103:21   warning  'dot_gap' is not defined                              no-undef
+   106:27   warning  'dot_gap' is not defined                              no-undef
+   116:34   warning  'dot_gap' is not defined                              no-undef
+   116:45   warning  'dot_gap' is not defined                              no-undef
+   117:28   warning  'dot_gap' is not defined                              no-undef
+   127:33   warning  'dot_gap' is not defined                              no-undef
+   127:44   warning  'dot_gap' is not defined                              no-undef
+   128:28   warning  'dot_gap' is not defined                              no-undef
+   151:22   warning  'dot_gap' is not defined                              no-undef
+   151:49   warning  'dot_gap' is not defined                              no-undef
+   151:63   warning  'dot_gap' is not defined                              no-undef
+   152:26   warning  'dot_gap' is not defined                              no-undef
+   152:53   warning  'dot_gap' is not defined                              no-undef
+   152:67   warning  'dot_gap' is not defined                              no-undef
+   153:40   warning  'dot_width' is not defined                            no-undef
+   153:61   warning  'dot_height' is not defined                           no-undef
+   153:78   warning  'dot_width' is not defined                            no-undef
+   153:89   warning  'dot_height' is not defined                           no-undef
+   153:101  warning  'dot_color' is not defined                            no-undef
+   187:31   warning  'bit_r' is not defined                                no-undef
+   187:39   warning  'bit_r' is not defined                                no-undef
+   196:33   warning  'bit_r' is not defined                                no-undef
+   207:40   warning  'bit_r' is not defined                                no-undef
+   207:60   warning  'bit_r' is not defined                                no-undef
+   210:36   warning  'bit_r' is not defined                                no-undef
+   210:52   warning  'bit_r' is not defined                                no-undef
+   211:36   warning  'bit_r' is not defined                                no-undef
+   211:52   warning  'bit_r' is not defined                                no-undef
+   212:36   warning  'bit_r' is not defined                                no-undef
+   212:52   warning  'bit_r' is not defined                                no-undef
+   213:36   warning  'bit_r' is not defined                                no-undef
+   213:52   warning  'bit_r' is not defined                                no-undef
+   253:33   warning  'bit_r' is not defined                                no-undef
+   291:18   warning  'pin_width' is not defined                            no-undef
+   292:18   warning  'pin_height' is not defined                           no-undef
+   293:22   warning  'pin_color' is not defined                            no-undef
+   350:30   warning  'dot_gap' is not defined                              no-undef
+   350:54   warning  'dot_gap' is not defined                              no-undef
+   351:30   warning  'dot_gap' is not defined                              no-undef
+   351:54   warning  'dot_gap' is not defined                              no-undef
+   367:37   warning  'dot_gap' is not defined                              no-undef
+   367:61   warning  'dot_gap' is not defined                              no-undef
+   368:37   warning  'dot_gap' is not defined                              no-undef
+   368:61   warning  'dot_gap' is not defined                              no-undef
+   385:34   warning  'dot_gap' is not defined                              no-undef
+   387:18   warning  'dot_gap' is not defined                              no-undef
+   388:23   warning  'dot_gap' is not defined                              no-undef
+   393:81   warning  'dot_gap' is not defined                              no-undef
+   393:115  warning  'dot_gap' is not defined                              no-undef
+   401:45   warning  'dot_gap' is not defined                              no-undef
+   412:54   warning  'dot_gap' is not defined                              no-undef
+   413:63   warning  'dot_gap' is not defined                              no-undef
+   414:54   warning  'dot_gap' is not defined                              no-undef
+   415:63   warning  'dot_gap' is not defined                              no-undef
+   434:29   warning  'dot_width' is not defined                            no-undef
+   435:30   warning  'dot_height' is not defined                           no-undef
+   435:48   warning  'chip_padding' is not defined                         no-undef
+   436:23   warning  'dot_gap' is not defined                              no-undef
+   436:34   warning  'dot_width' is not defined                            no-undef
+   439:22   warning  'pin_height' is not defined                           no-undef
+   439:40   warning  'chip_padding' is not defined                         no-undef
+   441:23   warning  'dot_gap' is not defined                              no-undef
+   441:55   warning  'chip_padding' is not defined                         no-undef
+   441:71   warning  'pin_height' is not defined                           no-undef
+   446:22   warning  'chip_color' is not defined                           no-undef
+   448:30   warning  'pin_width' is not defined                            no-undef
+   449:30   warning  'chip_padding' is not defined                         no-undef
+   452:13   warning  'available_id' is not defined                         no-undef
+   452:28   warning  'available_id' is not defined                         no-undef
+   453:31   warning  'available_id' is not defined                         no-undef
+   459:22   warning  'dot_gap' is not defined                              no-undef
+   463:26   warning  'chip_padding' is not defined                         no-undef
+   464:18   warning  'i' is already defined                                no-redeclare
+   465:13   warning  'available_id' is not defined                         no-undef
+   465:28   warning  'available_id' is not defined                         no-undef
+   466:17   warning  'pin' is already defined                              no-redeclare
+   466:31   warning  'available_id' is not defined                         no-undef
+   472:22   warning  'dot_gap' is not defined                              no-undef
+   474:9    warning  'available_id' is not defined                         no-undef
+   474:24   warning  'available_id' is not defined                         no-undef
+   485:25   warning  'labelColor' is not defined                           no-undef
+   621:25   warning  'conn_width' is not defined                           no-undef
+   622:27   warning  'conn_color' is not defined                           no-undef
+   637:14   warning  'dot_gap' is not defined                              no-undef
+   652:40   warning  'dot_gap' is not defined                              no-undef
+   654:39   warning  'dot_gap' is not defined                              no-undef
+   656:37   warning  'dot_gap' is not defined                              no-undef
+   658:55   warning  'dot_gap' is not defined                              no-undef
+   660:54   warning  'dot_gap' is not defined                              no-undef
+   662:53   warning  'dot_gap' is not defined                              no-undef
+   664:37   warning  'dot_gap' is not defined                              no-undef
+   666:55   warning  'dot_gap' is not defined                              no-undef
+   693:25   warning  'conn_width' is not defined                           no-undef
+   694:27   warning  'conn_color' is not defined                           no-undef
+   917:21   warning  'bit' is already defined                              no-redeclare
+   942:39   warning  'dot_width' is not defined                            no-undef
+   944:40   warning  'dot_height' is not defined                           no-undef
+   960:25   warning  'left' is already defined                             no-redeclare
+   961:25   warning  'right' is already defined                            no-redeclare
+   961:41   warning  'pin_width' is not defined                            no-undef
+   962:25   warning  'top' is already defined                              no-redeclare
+   963:25   warning  'bottom' is already defined                           no-redeclare
+   963:42   warning  'pin_height' is not defined                           no-undef
+   980:29   warning  'left' is already defined                             no-redeclare
+   981:29   warning  'right' is already defined                            no-redeclare
+   981:45   warning  'pin_width' is not defined                            no-undef
+   982:29   warning  'top' is already defined                              no-redeclare
+   983:29   warning  'bottom' is already defined                           no-redeclare
+   983:46   warning  'pin_height' is not defined                           no-undef
+  1004:25   warning  'left' is already defined                             no-redeclare
+  1005:25   warning  'right' is already defined                            no-redeclare
+  1005:41   warning  'pin_width' is not defined                            no-undef
+  1006:25   warning  'top' is already defined                              no-redeclare
+  1007:25   warning  'bottom' is already defined                           no-redeclare
+  1007:42   warning  'pin_height' is not defined                           no-undef
+  1023:29   warning  'left' is already defined                             no-redeclare
+  1024:29   warning  'right' is already defined                            no-redeclare
+  1024:45   warning  'pin_width' is not defined                            no-undef
+  1025:29   warning  'top' is already defined                              no-redeclare
+  1026:29   warning  'bottom' is already defined                           no-redeclare
+  1026:46   warning  'pin_height' is not defined                           no-undef
+  1127:17   warning  'ele' is assigned a value but never used              no-unused-vars
+  1154:25   warning  'conn' is already defined                             no-redeclare
+  1157:29   warning  'assoc_pin' is already defined                        no-redeclare
+  1174:13   warning  'total_conns' is assigned a value but never used      no-unused-vars
+  1210:21   warning  'conn' is already defined                             no-redeclare
+  1249:18   warning  'key' is assigned a value but never used              no-unused-vars
+  1262:20   warning  'dot_gap' is not defined                              no-undef
+  1276:24   warning  'dot_gap' is not defined                              no-undef
+  1338:19   warning  'available_id' is not defined                         no-undef
+  1339:9    warning  'available_id' is not defined                         no-undef
+  1339:24   warning  'available_id' is not defined                         no-undef
+  1397:32   warning  'dot_gap' is not defined                              no-undef
+  1398:32   warning  'dot_gap' is not defined                              no-undef
+  1399:32   warning  'dot_gap' is not defined                              no-undef
+  1400:32   warning  'dot_gap' is not defined                              no-undef
+  1424:17   warning  'drag_chip_index' is not defined                      no-undef
+  1441:17   warning  'drag_comp_index' is not defined                      no-undef
+  1463:9    warning  'nr_dot' is not defined                               no-undef
+  1464:9    warning  'nr_dot' is not defined                               no-undef
+  1465:9    warning  'is_connecting' is not defined                        no-undef
+  1479:39   warning  'dot_width' is not defined                            no-undef
+  1480:37   warning  'dot_width' is not defined                            no-undef
+  1481:39   warning  'dot_width' is not defined                            no-undef
+  1482:39   warning  'dot_width' is not defined                            no-undef
+  1484:39   warning  'dot_width' is not defined                            no-undef
+  1485:39   warning  'dot_width' is not defined                            no-undef
+  1486:39   warning  'dot_width' is not defined                            no-undef
+  1487:37   warning  'dot_width' is not defined                            no-undef
+  1491:21   warning  'sel_conn_index' is not defined                       no-undef
+  1514:17   warning  'sel_bit_index' is not defined                        no-undef
+  1528:17   warning  'sel_memory_index' is not defined                     no-undef
+  1538:13   warning  'sel_bit_index' is not defined                        no-undef
+  1538:52   warning  'sel_bit_index' is not defined                        no-undef
+  1539:30   warning  'sel_bit_index' is not defined                        no-undef
+  1540:13   warning  'sel_bit_index' is not defined                        no-undef
+  1545:37   warning  'drag_chip_index' is not defined                      no-undef
+  1562:37   warning  'drag_comp_index' is not defined                      no-undef
+  1586:36   warning  'sel_bit_index' is not defined                        no-undef
+  1595:36   warning  'sel_memory_index' is not defined                     no-undef
+  1683:21   warning  'conn' is already defined                             no-redeclare
+  1684:21   warning  'indx' is already defined                             no-redeclare
+  1685:26   warning  'i' is already defined                                no-redeclare
+  1686:25   warning  'lns' is already defined                              no-redeclare
+  1771:21   warning  'conn' is already defined                             no-redeclare
+  1774:25   warning  'assoc' is already defined                            no-redeclare
+  1786:21   warning  'conn' is already defined                             no-redeclare
+  1789:25   warning  'assoc' is already defined                            no-redeclare
+  1832:21   warning  'device' is already defined                           no-redeclare
+  1835:29   warning  'conn' is already defined                             no-redeclare
+  1838:33   warning  'assoc' is already defined                            no-redeclare
+  1915:18   warning  'i' is already defined                                no-redeclare
+  1925:9    warning  'saveAs' is not defined                               no-undef
+  1928:29   warning  'pin_desc' is defined but never used                  no-unused-vars
+  1931:9    warning  'saveAs' is not defined                               no-undef
+  1953:15   warning  'conn_map' is assigned a value but never used         no-unused-vars
+  1959:21   warning  'id' is already defined                               no-redeclare
+  1998:64   warning  'init_x' is not defined                               no-undef
+  1998:72   warning  'init_y' is not defined                               no-undef
+  2109:21   warning  'ele_data' is already defined                         no-redeclare
+  2160:18   warning  'i' is already defined                                no-redeclare
+  2167:29   warning  'dot_width' is not defined                            no-undef
+  2168:30   warning  'dot_height' is not defined                           no-undef
+  2168:48   warning  'chip_padding' is not defined                         no-undef
+  2169:23   warning  'dot_gap' is not defined                              no-undef
+  2169:34   warning  'dot_width' is not defined                            no-undef
+  2174:22   warning  'pin_height' is not defined                           no-undef
+  2174:40   warning  'chip_padding' is not defined                         no-undef
+  2176:23   warning  'dot_gap' is not defined                              no-undef
+  2176:55   warning  'chip_padding' is not defined                         no-undef
+  2176:71   warning  'pin_height' is not defined                           no-undef
+  2179:22   warning  'chip_color' is not defined                           no-undef
+  2191:30   warning  'pin_width' is not defined                            no-undef
+  2192:30   warning  'chip_padding' is not defined                         no-undef
+  2194:18   warning  'i' is already defined                                no-redeclare
+  2195:13   warning  'available_id' is not defined                         no-undef
+  2195:28   warning  'available_id' is not defined                         no-undef
+  2196:31   warning  'available_id' is not defined                         no-undef
+  2205:22   warning  'dot_gap' is not defined                              no-undef
+  2209:26   warning  'chip_padding' is not defined                         no-undef
+  2210:18   warning  'i' is already defined                                no-redeclare
+  2211:13   warning  'available_id' is not defined                         no-undef
+  2211:28   warning  'available_id' is not defined                         no-undef
+  2212:17   warning  'pin' is already defined                              no-redeclare
+  2212:31   warning  'available_id' is not defined                         no-undef
+  2221:22   warning  'dot_gap' is not defined                              no-undef
+  2223:9    warning  'available_id' is not defined                         no-undef
+  2223:24   warning  'available_id' is not defined                         no-undef
+  2235:25   warning  'labelColor' is not defined                           no-undef
+  2280:1    warning  '$' is not defined                                    no-undef
+  2298:14   warning  'is_dragging' is not defined                          no-undef
+  2300:13   warning  'start_x' is not defined                              no-undef
+  2301:13   warning  'start_y' is not defined                              no-undef
+  2302:13   warning  'dragging_chip' is not defined                        no-undef
+  2303:13   warning  'is_dragging' is not defined                          no-undef
+  2304:21   warning  'is_dragging' is not defined                          no-undef
+  2306:13   warning  'start_x' is not defined                              no-undef
+  2307:13   warning  'start_y' is not defined                              no-undef
+  2308:13   warning  'dragging_component' is not defined                   no-undef
+  2309:13   warning  'is_dragging' is not defined                          no-undef
+  2310:21   warning  'is_dragging' is not defined                          no-undef
+  2312:13   warning  'start_x' is not defined                              no-undef
+  2313:13   warning  'start_y' is not defined                              no-undef
+  2314:13   warning  'dragging_bit' is not defined                         no-undef
+  2315:13   warning  'is_dragging' is not defined                          no-undef
+  2316:21   warning  'is_dragging' is not defined                          no-undef
+  2318:13   warning  'start_x' is not defined                              no-undef
+  2319:13   warning  'start_y' is not defined                              no-undef
+  2320:13   warning  'dragging_memory' is not defined                      no-undef
+  2321:13   warning  'is_dragging' is not defined                          no-undef
+  2322:21   warning  'is_dragging' is not defined                          no-undef
+  2324:13   warning  'start_x' is not defined                              no-undef
+  2325:13   warning  'start_y' is not defined                              no-undef
+  2326:13   warning  'dragging_clock' is not defined                       no-undef
+  2327:13   warning  'is_dragging' is not defined                          no-undef
+  2328:21   warning  'is_connecting' is not defined                        no-undef
+  2330:13   warning  'start_dot' is not defined                            no-undef
+  2330:27   warning  'nr_dot' is not defined                               no-undef
+  2331:13   warning  'start_dot' is not defined                            no-undef
+  2331:27   warning  'nr_dot' is not defined                               no-undef
+  2332:13   warning  'is_connecting' is not defined                        no-undef
+  2334:17   warning  'l_jumper' is not defined                             no-undef
+  2336:17   warning  'r_jumper' is not defined                             no-undef
+  2339:9    warning  'nr_dot' is not defined                               no-undef
+  2345:10   warning  'is_dragging' is not defined                          no-undef
+  2345:26   warning  'is_connecting' is not defined                        no-undef
+  2349:9    warning  'is_dragging' is not defined                          no-undef
+  2349:24   warning  'dragging_chip' is not defined                        no-undef
+  2351:35   warning  'drag_chip_index' is not defined                      no-undef
+  2356:29   warning  'dot_width' is not defined                            no-undef
+  2357:30   warning  'dot_height' is not defined                           no-undef
+  2357:48   warning  'chip_padding' is not defined                         no-undef
+  2373:16   warning  'is_dragging' is not defined                          no-undef
+  2373:31   warning  'dragging_component' is not defined                   no-undef
+  2375:35   warning  'drag_comp_index' is not defined                      no-undef
+  2376:13   warning  'x' is already defined                                no-redeclare
+  2377:13   warning  'y' is already defined                                no-redeclare
+  2378:13   warning  'nr_pt' is already defined                            no-redeclare
+  2379:29   warning  'dot_width' is not defined                            no-undef
+  2380:30   warning  'dot_height' is not defined                           no-undef
+  2380:48   warning  'chip_padding' is not defined                         no-undef
+  2381:13   warning  'dx' is already defined                               no-redeclare
+  2382:13   warning  'dy' is already defined                               no-redeclare
+  2388:16   warning  'is_dragging' is not defined                          no-undef
+  2388:31   warning  'dragging_bit' is not defined                         no-undef
+  2389:34   warning  'sel_bit_index' is not defined                        no-undef
+  2390:13   warning  'x' is already defined                                no-redeclare
+  2391:13   warning  'y' is already defined                                no-redeclare
+  2392:13   warning  'nr_pt' is already defined                            no-redeclare
+  2396:16   warning  'is_dragging' is not defined                          no-undef
+  2396:31   warning  'dragging_memory' is not defined                      no-undef
+  2397:13   warning  'bit' is already defined                              no-redeclare
+  2397:34   warning  'sel_memory_index' is not defined                     no-undef
+  2398:13   warning  'x' is already defined                                no-redeclare
+  2399:13   warning  'y' is already defined                                no-redeclare
+  2400:13   warning  'nr_pt' is already defined                            no-redeclare
+  2403:36   warning  'dot_gap' is not defined                              no-undef
+  2406:16   warning  'is_dragging' is not defined                          no-undef
+  2406:31   warning  'dragging_clock' is not defined                       no-undef
+  2408:13   warning  'x' is already defined                                no-redeclare
+  2409:13   warning  'y' is already defined                                no-redeclare
+  2410:13   warning  'nr_pt' is already defined                            no-redeclare
+  2414:16   warning  'is_connecting' is not defined                        no-undef
+  2420:52   warning  'nr_dot' is not defined                               no-undef
+  2420:65   warning  'start_dot' is not defined                            no-undef
+  2420:80   warning  'nr_dot' is not defined                               no-undef
+  2420:93   warning  'start_dot' is not defined                            no-undef
+  2421:22   warning  'nr_dot' is not defined                               no-undef
+  2421:35   warning  'start_dot' is not defined                            no-undef
+  2421:50   warning  'nr_dot' is not defined                               no-undef
+  2421:63   warning  'start_dot' is not defined                            no-undef
+  2421:80   warning  'nr_dot' is not defined                               no-undef
+  2421:93   warning  'start_dot' is not defined                            no-undef
+  2421:108  warning  'nr_dot' is not defined                               no-undef
+  2421:121  warning  'start_dot' is not defined                            no-undef
+  2424:24   warning  'nr_dot' is not defined                               no-undef
+  2425:24   warning  'nr_dot' is not defined                               no-undef
+  2426:18   warning  'l_jumper' is not defined                             no-undef
+  2426:30   warning  'r_jumper' is not defined                             no-undef
+  2426:44   warning  'start_dot' is not defined                            no-undef
+  2426:81   warning  'start_dot' is not defined                            no-undef
+  2426:113  warning  'dot_gap' is not defined                              no-undef
+  2427:21   warning  'start_dot' is not defined                            no-undef
+  2429:27   warning  'start_dot' is not defined                            no-undef
+  2430:21   warning  'start_dot' is not defined                            no-undef
+  2434:21   warning  'l_jumper' is not defined                             no-undef
+  2435:41   warning  'available_id' is not defined                         no-undef
+  2435:55   warning  'start_dot' is not defined                            no-undef
+  2435:68   warning  'start_dot' is not defined                            no-undef
+  2438:41   warning  'available_id' is not defined                         no-undef
+  2438:55   warning  'start_dot' is not defined                            no-undef
+  2438:68   warning  'start_dot' is not defined                            no-undef
+  2441:17   warning  'available_id' is not defined                         no-undef
+  2441:32   warning  'available_id' is not defined                         no-undef
+  2446:25   warning  'l_jumper' is not defined                             no-undef
+  2446:37   warning  'r_jumper' is not defined                             no-undef
+  2446:51   warning  'start_dot' is not defined                            no-undef
+  2446:88   warning  'start_dot' is not defined                            no-undef
+  2446:120  warning  'dot_gap' is not defined                              no-undef
+  2447:21   warning  'start_dot' is not defined                            no-undef
+  2448:25   warning  'tmp' is already defined                              no-redeclare
+  2449:27   warning  'start_dot' is not defined                            no-undef
+  2450:21   warning  'start_dot' is not defined                            no-undef
+  2453:21   warning  'jumper' is already defined                           no-redeclare
+  2454:21   warning  'l_jumper' is not defined                             no-undef
+  2455:41   warning  'available_id' is not defined                         no-undef
+  2455:55   warning  'start_dot' is not defined                            no-undef
+  2455:68   warning  'start_dot' is not defined                            no-undef
+  2458:41   warning  'available_id' is not defined                         no-undef
+  2458:55   warning  'start_dot' is not defined                            no-undef
+  2458:68   warning  'start_dot' is not defined                            no-undef
+  2461:17   warning  'available_id' is not defined                         no-undef
+  2461:32   warning  'available_id' is not defined                         no-undef
+  2464:21   warning  'flag' is already defined                             no-redeclare
+  2467:50   warning  'available_id' is not defined                         no-undef
+  2467:64   warning  'start_dot' is not defined                            no-undef
+  2469:17   warning  'available_id' is not defined                         no-undef
+  2469:32   warning  'available_id' is not defined                         no-undef
+  2472:29   warning  'tmp' is already defined                              no-redeclare
+  2478:29   warning  'tmp' is already defined                              no-redeclare
+  2484:21   warning  'flag' is already defined                             no-redeclare
+  2484:21   warning  'flag' is assigned a value but never used             no-unused-vars
+  2489:5    warning  'l_jumper' is not defined                             no-undef
+  2490:5    warning  'r_jumper' is not defined                             no-undef
+  2491:5    warning  'is_dragging' is not defined                          no-undef
+  2492:5    warning  'dragging_chip' is not defined                        no-undef
+  2493:5    warning  'dragging_component' is not defined                   no-undef
+  2494:5    warning  'dragging_clock' is not defined                       no-undef
+  2495:5    warning  'dragging_bit' is not defined                         no-undef
+  2496:5    warning  'dragging_mouse' is not defined                       no-undef
+  2497:5    warning  'dragging_memory' is not defined                      no-undef
+  2498:5    warning  'drag_chip_index' is not defined                      no-undef
+  2499:5    warning  'drag_comp_index' is not defined                      no-undef
+  2500:5    warning  'sel_bit_index' is not defined                        no-undef
+  2501:5    warning  'sel_memory_index' is not defined                     no-undef
+  2502:5    warning  'start_x' is not defined                              no-undef
+  2503:5    warning  'start_y' is not defined                              no-undef
+  2504:5    warning  'start_dot' is not defined                            no-undef
+  2505:5    warning  'nr_dot' is not defined                               no-undef
+  2506:5    warning  'is_connecting' is not defined                        no-undef
+  2510:10   warning  'is_dragging' is not defined                          no-undef
+  2510:26   warning  'is_connecting' is not defined                        no-undef
+  2514:5    warning  'start_x' is not defined                              no-undef
+  2515:5    warning  'start_y' is not defined                              no-undef
+  2516:5    warning  'start_dot' is not defined                            no-undef
+  2517:5    warning  'nr_dot' is not defined                               no-undef
+  2518:5    warning  'is_connecting' is not defined                        no-undef
+  2519:5    warning  'is_dragging' is not defined                          no-undef
+  2520:5    warning  'is_connecting' is not defined                        no-undef
+  2521:5    warning  'dragging_chip' is not defined                        no-undef
+  2522:5    warning  'dragging_bit' is not defined                         no-undef
+  2523:5    warning  'dragging_memory' is not defined                      no-undef
+  2526:10   warning  'is_dragging' is not defined                          no-undef
+  2526:26   warning  'is_connecting' is not defined                        no-undef
+  2530:9    warning  'is_dragging' is not defined                          no-undef
+  2530:24   warning  'dragging_chip' is not defined                        no-undef
+  2534:9    warning  'start_x' is not defined                              no-undef
+  2534:19   warning  'start_x' is not defined                              no-undef
+  2535:9    warning  'start_y' is not defined                              no-undef
+  2535:19   warning  'start_y' is not defined                              no-undef
+  2536:16   warning  'is_dragging' is not defined                          no-undef
+  2536:31   warning  'dragging_component' is not defined                   no-undef
+  2537:13   warning  'dx' is already defined                               no-redeclare
+  2538:13   warning  'dy' is already defined                               no-redeclare
+  2540:9    warning  'start_x' is not defined                              no-undef
+  2540:19   warning  'start_x' is not defined                              no-undef
+  2541:9    warning  'start_y' is not defined                              no-undef
+  2541:19   warning  'start_y' is not defined                              no-undef
+  2542:16   warning  'is_dragging' is not defined                          no-undef
+  2542:31   warning  'dragging_bit' is not defined                         no-undef
+  2543:13   warning  'dx' is already defined                               no-redeclare
+  2544:13   warning  'dy' is already defined                               no-redeclare
+  2546:9    warning  'start_x' is not defined                              no-undef
+  2546:19   warning  'start_x' is not defined                              no-undef
+  2547:9    warning  'start_y' is not defined                              no-undef
+  2547:19   warning  'start_y' is not defined                              no-undef
+  2548:16   warning  'is_dragging' is not defined                          no-undef
+  2548:31   warning  'dragging_memory' is not defined                      no-undef
+  2549:13   warning  'dx' is already defined                               no-redeclare
+  2550:13   warning  'dy' is already defined                               no-redeclare
+  2552:9    warning  'start_x' is not defined                              no-undef
+  2552:19   warning  'start_x' is not defined                              no-undef
+  2553:9    warning  'start_y' is not defined                              no-undef
+  2553:19   warning  'start_y' is not defined                              no-undef
+  2554:16   warning  'is_dragging' is not defined                          no-undef
+  2554:31   warning  'dragging_clock' is not defined                       no-undef
+  2555:13   warning  'dx' is already defined                               no-redeclare
+  2556:13   warning  'dy' is already defined                               no-redeclare
+  2558:9    warning  'start_x' is not defined                              no-undef
+  2558:19   warning  'start_x' is not defined                              no-undef
+  2559:9    warning  'start_y' is not defined                              no-undef
+  2559:19   warning  'start_y' is not defined                              no-undef
+  2565:35   warning  'drag_chip_index' is not defined                      no-undef
+  2568:13   warning  'drag_chip_index' is not defined                      no-undef
+  2569:13   warning  '$' is not defined                                    no-undef
+  2572:13   warning  '$' is not defined                                    no-undef
+  2576:35   warning  'drag_comp_index' is not defined                      no-undef
+  2579:13   warning  'drag_comp_index' is not defined                      no-undef
+  2580:13   warning  '$' is not defined                                    no-undef
+  2583:13   warning  '$' is not defined                                    no-undef
+  2587:34   warning  'sel_bit_index' is not defined                        no-undef
+  2590:13   warning  'sel_bit_index' is not defined                        no-undef
+  2596:13   warning  'bit' is already defined                              no-redeclare
+  2596:34   warning  'sel_memory_index' is not defined                     no-undef
+  2599:13   warning  'sel_memory_index' is not defined                     no-undef
+  2600:13   warning  '$' is not defined                                    no-undef
+  2601:13   warning  '$' is not defined                                    no-undef
+  2604:13   warning  '$' is not defined                                    no-undef
+  2605:13   warning  '$' is not defined                                    no-undef
+  2617:35   warning  'sel_conn_index' is not defined                       no-undef
+  2620:13   warning  'sel_conn_index' is not defined                       no-undef
+  2621:13   warning  '$' is not defined                                    no-undef
+  2622:13   warning  '$' is not defined                                    no-undef
+  2625:13   warning  '$' is not defined                                    no-undef
+  2626:13   warning  '$' is not defined                                    no-undef
+  2631:1    warning  Unnecessary semicolon                                 no-extra-semi
+  2639:35   warning  'drag_comp_index' is not defined                      no-undef
+  2644:9    warning  '$' is not defined                                    no-undef
+  2645:9    warning  '$' is not defined                                    no-undef
+  2646:9    warning  '$' is not defined                                    no-undef
+  2660:13   warning  'flag' is already defined                             no-redeclare
+  2667:35   warning  'available_id' is not defined                         no-undef
+  2668:5    warning  'available_id' is not defined                         no-undef
+  2668:20   warning  'available_id' is not defined                         no-undef
+  2685:5    warning  'available_id' is not defined                         no-undef
+  2725:33   warning  'json_pin' is already defined                         no-redeclare
+  2820:1    warning  '$' is not defined                                    no-undef
+  2821:5    warning  '$' is not defined                                    no-undef
+  2851:30   warning  'available_id' is not defined                         no-undef
+  2851:44   warning  'init_x' is not defined                               no-undef
+  2851:52   warning  'init_y' is not defined                               no-undef
+  2852:9    warning  'available_id' is not defined                         no-undef
+  2852:24   warning  'available_id' is not defined                         no-undef
+  2862:5    warning  '$' is not defined                                    no-undef
+  2865:30   warning  'available_id' is not defined                         no-undef
+  2865:44   warning  'init_x' is not defined                               no-undef
+  2865:52   warning  'init_y' is not defined                               no-undef
+  2866:13   warning  'available_id' is not defined                         no-undef
+  2866:28   warning  'available_id' is not defined                         no-undef
+  2869:31   warning  'available_id' is not defined                         no-undef
+  2869:45   warning  'init_x' is not defined                               no-undef
+  2869:53   warning  'init_y' is not defined                               no-undef
+  2870:13   warning  'available_id' is not defined                         no-undef
+  2870:28   warning  'available_id' is not defined                         no-undef
+  2873:30   warning  'available_id' is not defined                         no-undef
+  2873:44   warning  'init_x' is not defined                               no-undef
+  2873:52   warning  'init_y' is not defined                               no-undef
+  2874:13   warning  'available_id' is not defined                         no-undef
+  2874:28   warning  'available_id' is not defined                         no-undef
+  2879:5    warning  '$' is not defined                                    no-undef
+  2880:20   warning  '$' is not defined                                    no-undef
+  2881:19   warning  '$' is not defined                                    no-undef
+  2887:35   warning  'available_id' is not defined                         no-undef
+  2887:49   warning  'init_x' is not defined                               no-undef
+  2887:57   warning  'init_y' is not defined                               no-undef
+  2888:13   warning  'available_id' is not defined                         no-undef
+  2888:28   warning  'available_id' is not defined                         no-undef
+  2893:5    warning  '$' is not defined                                    no-undef
+  2902:25   warning  '$' is not defined                                    no-undef
+  2910:17   warning  '$' is not defined                                    no-undef
+  2914:5    warning  '$' is not defined                                    no-undef
+  2916:19   warning  '$' is not defined                                    no-undef
+  2932:5    warning  '$' is not defined                                    no-undef
+  2958:5    warning  '$' is not defined                                    no-undef
+  2986:5    warning  '$' is not defined                                    no-undef
+  2987:9    warning  'stop_simulation_flag' is not defined                 no-undef
+  3003:5    warning  '$' is not defined                                    no-undef
+  3004:9    warning  'stop_simulation_flag' is not defined                 no-undef
+  3006:5    warning  '$' is not defined                                    no-undef
+  3007:20   warning  '$' is not defined                                    no-undef
+  3008:24   warning  '$' is not defined                                    no-undef
+  3014:5    warning  '$' is not defined                                    no-undef
+  3016:30   warning  'init_x' is not defined                               no-undef
+  3016:38   warning  'init_y' is not defined                               no-undef
+  3018:5    warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/simulation/js/jquery-3.4.1.js
+     18:44  warning  'module' is not defined                                                    no-undef
+     27:3   warning  'module' is not defined                                                    no-undef
+    138:11  warning  'Symbol' is already defined as a built-in global variable                  no-redeclare
+    668:15  warning  Unexpected control character(s) in regular expression: \x1f, \x1f          no-control-regex
+    723:39  warning  Empty block statement                                                      no-empty
+   1919:28  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   2830:2   warning  Unnecessary semicolon                                                      no-extra-semi
+   2831:31  warning  Unnecessary escape character: \/                                           no-useless-escape
+   3132:55  warning  Empty block statement                                                      no-empty
+   4233:18  warning  Empty block statement                                                      no-empty
+   4716:28  warning  Unnecessary escape character: \/                                           no-useless-escape
+   4932:18  warning  Empty block statement                                                      no-empty
+   5777:75  warning  Unnecessary escape character: \/                                           no-useless-escape
+   6171:19  warning  Empty block statement                                                      no-empty
+   9288:22  warning  'urlAnchor.href' is assigned to itself                                     no-self-assign
+   9698:16  warning  Empty block statement                                                      no-empty
+  10558:38  warning  'define' is not defined                                                    no-undef
+  10559:2   warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/simulation/js/menu.js
+   2:10  warning  'loadMenu' is defined but never used  no-unused-vars
+  10:19  warning  'COAVLD' is not defined               no-undef
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/simulation/js/modules.js
+   1:10  warning  'reloadmodules' is defined but never used  no-unused-vars
+  20:51  warning  Unnecessary semicolon                      no-extra-semi
+  51:3   warning  'simpleLogic' is not defined               no-undef
+  57:10  warning  'uploadmodule' is defined but never used   no-unused-vars
+  61:31  warning  'simpleLogic' is not defined               no-undef
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/simulation/js/nodes.js
+    8:35  warning  'time' is defined but never used    no-unused-vars
+   22:35  warning  'time' is defined but never used    no-unused-vars
+   36:35  warning  'time' is defined but never used    no-unused-vars
+   50:35  warning  'time' is defined but never used    no-unused-vars
+   64:35  warning  'time' is defined but never used    no-unused-vars
+   78:35  warning  'time' is defined but never used    no-unused-vars
+   92:35  warning  'time' is defined but never used    no-unused-vars
+  106:21  warning  'node' is defined but never used    no-unused-vars
+  106:27  warning  'inputs' is defined but never used  no-unused-vars
+  106:35  warning  'time' is defined but never used    no-unused-vars
+  177:35  warning  'time' is defined but never used    no-unused-vars
+
+/home/runner/work/exp-parity-checker-iitkgp/exp-parity-checker-iitkgp/experiment/simulation/js/polyfill.js
+  11:59  warning  'element' is defined but never used  no-unused-vars
+
+✖ 663 problems (0 errors, 663 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
