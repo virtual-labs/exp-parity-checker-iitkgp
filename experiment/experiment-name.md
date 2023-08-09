@@ -1,1 +1,1 @@
-## Experiment name
+## Parity checker / generator  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="images/iitkgp.png" width="3%" />
