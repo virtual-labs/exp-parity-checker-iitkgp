@@ -1926,6 +1926,27 @@ class Circuit {
     }
 
     save_as_component(name, pin_desc) {
+        this.name = name;
+        this.pin_desc = pin_desc;
+        var inpin_json = {};
+        var outpin_json = {};
+        var pin_id = 1;
+        for (var i = 0; i < this.inbit_pts.length; i++) {
+            var bit_id = this.inbit_pts[i];
+            inpin_json[pin_id] = bit_id;
+            pin_id = pin_id + 1;
+        }
+        if (this.clock_id !== null) {
+            inpin_json[pin_id] = this.clock_id;
+            pin_id = pin_id + 1;
+        }
+        for (var i = 0; i < this.outbit_pts.length; i++) {
+            let bit_id = this.outbit_pts[i];
+            outpin_json[pin_id] = bit_id;
+            pin_id = pin_id + 1;
+        }
+        this.inpin_map = inpin_json;
+        this.outpin_map = outpin_json;
         var blob = new Blob([JSON.stringify(this)],
                 {type: "text/plain;charset=utf-8"});
         saveAs(blob, name + ".json");
