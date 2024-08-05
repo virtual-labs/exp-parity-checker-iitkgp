@@ -35,7 +35,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "The BCD number 101011 has _______ priority.",
+        "question": "The BCD number 101011 has _______ parity.",
         "answers": {
           "a": "Even",
           "b": "Odd",
