@@ -1,17 +1,16 @@
 # Theory:
-
 In digital systems, when binary data is transmitted and processed, data may be subjected to noise so that such noise can alter 0s (of data bits) to 1s and 1s to 0s. 
 
 Hence, a Parity Bit is added to the word containing data in order to make number of 1s either even or odd. The message containing the data bits along with parity bit is transmitted from transmitter to the receiver.
 
 At the receiving end, the number of 1s in the message is counted and if it doesn’t match with the transmitted one, it means there is an error in the data. Thus, the Parity Bit it is used to detect errors, during the transmission of binary data.
 
-A Parity Generator is a combinational logic circuit that generates the parity bit in the transmitter. On the other hand, a circuit that checks the parity 
-in the receiver is called Parity Checker. 
+A Parity Generator is a combinational logic circuit that generates the parity bit in the transmitter. On the other hand, a circuit that checks the parity in the receiver is called Parity Checker. 
 
 The sum of the data bits and parity bits can be even or odd. In even parity, the added parity bit will make the total number of 1s an even number, whereas in odd parity, the added parity bit will make the total number of 1s an odd number.
 
 Here is the truth table for even parity generator for a 3 bit message:
+
 
 <center>
 <table>
@@ -33,30 +32,12 @@ Here is the truth table for even parity generator for a 3 bit message:
 </center>
 
 
-## Parity generator
+Boolean expression for even parity generator
 
-Y = A ⊕ B ⊕ C
+P = A ⊕ B ⊕ C
 
-Below is the even parity generator circuit diagram for a 3 bit data. Data bits are represented by **label 20, 21, 22** and the parity bit is represented with **label 31**.
 
-<center>
-<img src='./images/Img1.png' style="width:50%;">
-</center>
-
-<center>
-<img src='./images/Img2.png' style="width:50%;">
-
-</center>
-<center>
-<img src='./images/Img3.png' style="width:50%;">
-
-</center>
-<center>
-<img src='./images/Img4.png' style="width:50%;">
-
-</center>
-
-Here is the parity checker truth table for a 4 bit message including parity bit.
+Here is the even parity checker truth table for a 4 bit message including parity bit. If number of 1’s is even in the message, then error is false else error is true.
 
 <center>
 <table>
@@ -87,28 +68,7 @@ Here is the parity checker truth table for a 4 bit message including parity bit.
 </center>
 
 
-## Corresponding parity checker: 
+Boolean expression for even parity checker
 
 (A ⊕ B) ⊕ (C ⊕ P)
 
-Below is the even parity checker circuit diagram for a 4 bit message. The bit represented by **label 26** if red then there is no error and if green then there is some error in the data.
-
-
-<center>
-<img src='./images/Img5.png' style="width:50%;">
-
-</center>
-
-<center>
-<img src='./images/Img6.png' style="width:50%;">
-
-</center>
-
-<center>
-<img src='./images/Img7.png' style="width:50%;">
-
-</center>
-<center>
-<img src='./images/Img8.png' style="width:50%;">
-
-</center>
