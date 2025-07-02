@@ -1,7 +1,7 @@
 # Procedure
 
-- Design the below **Partity generator** and **Parity checker** circuits
-- Verify the **Partity generator** and **Parity checker** tables explained in theory
+- Design the below **Parity generator** and **Parity checker** circuits
+- Verify the **Parity generator** and **Parity checker** tables explained in theory
 
 ## Parity generator
 
@@ -12,10 +12,6 @@
 <img src='./images/Img2.png' style="width:50%;">
 
 </center>
-
-
-
-
 
 
 ## 4-bit Parity checker: 
@@ -53,7 +49,7 @@
 </center>
 
 
-- Below is the even parity checker circuit diagram for a 4 bit message. The bit represented by label **26** show if there is any error (bit green) or not (bit red). It is clearly visible, if there is even number of 1’s in the data, then parity checked is low means no error. Otherwise it is high means there is some error in the data.
+- Below is the even parity checker circuit diagram for a 4 bit message. The bit represented by label **26** shows if there is any error (it shows green for no-error) or not (it shows red for no-error). It is clearly visible, if there is even number of 1’s in the data, then parity checked is low means no error. Otherwise it is high means there is some error in the data.
 
 
 <center>
