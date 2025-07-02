@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Which error detection method uses one’s complement arithmetic?",
+        "answers": {
+          "a": "Simple parity check",
+          "b": "Two-dimensional parity check",
+          "c": "CRC",
+          "d": "Checksum"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which error detection method consists of just one redundant bit per data unit?",
+        "answers": {
+          "a": "Simple parity check",
+          "b": "Two-dimensional parity check",
+          "c": "CRC",
+          "d": "Checksum"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which error detection method involves polynomials?",
+        "answers": {
+          "a": "Simple parity check",
+          "b": "Two-dimensional parity check",
+          "c": "CRC",
+          "d": "Checksum"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which error detection method can detect a single-bit error?",
+        "answers": {
+          "a": "Simple parity check",
+          "b": "Two-dimensional parity check",
+          "c": "CRC",
+          "d": "Checksum"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "If odd parity is used for ASCII error detection, the number of 0s per 8-bit symbol is _______",
+        "answers": {
+          "a": "Indeterminate",
+          "b": "42",
+          "c": "Even",
+          "d": "Odd"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
