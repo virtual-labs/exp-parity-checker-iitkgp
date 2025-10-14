@@ -49,7 +49,7 @@
 </center>
 
 
-- Below is the even parity checker circuit diagram for a 4 bit message. The bit represented by label **26** shows if there is any error (it shows green for no-error) or not (it shows red for no-error). It is clearly visible, if there is even number of 1’s in the data, then parity checked is low means no error. Otherwise it is high means there is some error in the data.
+- Below is the even parity checker circuit diagram for a 4 bit message. The bit represented by label 26 shows if there is any error (Green) or not (Red). It is clearly visible, if there is even number of 1’s in the data, then parity checked is low means no error. Otherwise it is high means there is some error in the data.
 
 
 <center>
