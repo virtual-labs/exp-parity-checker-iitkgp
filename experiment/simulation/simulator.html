@@ -46,22 +46,35 @@
                 overflow-y: auto;       /* scroll only when needed */
                 border: 1px solid #ccc;
                 padding: 10px;
-            }
-
-            .adi{
+          
+        }
+          .adi{
                 text-align: center;
+                margin: 0 auto; 
                 width: 90em;
+                color: rgb(15, 4, 117);
+            }
+            .adit{
+                text-align: center;
+                width: 50%;
+                border: 2px solid rgb(15, 4, 117);
             }
         </style>
     </head>
     <body>
         <div class="adi">
-                    <h2> Follow the below manual and perform the experiment </h2>
-                    <h2><b> Manual --> <a href="./coavlNew.pdf" target="_blank">Click Here</a> </b> to download</h2><br><br>
-                    <h2><b> Simulator Demo Videos --> <a href="./dvid.html" target="_blank">Click Here</a> </b> to download</h2><br>
+            <table class="adi">
+                <tr class="adi">
+                    <td class="adit"><h4> Follow the below manual and perform the experiment </h4>
+                    <h4><b> Manual --> <a href="./coavlNew.pdf" target="_blank">Click Here</a> </b> to download</h4>
+                </td>
+                    <td>&emsp;&emsp; </td>
+                    <td class="adit"><h4><b> Simulator Demo Videos --> <a href="./dvid.html" target="_blank">Click Here</a> </b> to download</h4></td>
+
+                </tr>
+            </table>
 
         </div><br>
-
         <div class="float-container">
             <div class="stack float-child1 scroll-box">
                 <canvas id="bb_canvas" width="1500" height="1000" style="border: 1px solid black;">
