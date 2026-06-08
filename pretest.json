@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "Which gates are ideal for checking the parity bits?",
+        "answers": {
+          "a": "AND",
+          "b": "NAND",
+          "c": "EX-OR",
+          "d": "EX-NOR"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "What is a parity bit?",
+        "answers": {
+          "a": "An error detection is achieved by adding an extra bit",
+          "b": "After addition, the carry is found",
+          "c": "Bit generated during data transmission",
+          "d": "After addition, the total number of bits"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "How many types of parity bits are found?",
+        "answers": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "1"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The BCD number 101011 has _______ parity.",
+        "answers": {
+          "a": "Even",
+          "b": "Odd",
+          "c": "Both even and odd",
+          "d": "Undefined"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The odd parity output of decimal number 9 is ___________",
+        "answers": {
+          "a": "0",
+          "b": "1",
+          "c": "1001",
+          "d": "0011"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
